@@ -7,6 +7,7 @@ name = "pypi"
 beautifulsoup4 = "==4.9.3"
 pyyaml = "==5.4.1"
 requests = "==2.26.0"
+pyaml-env = "*"
 
 [dev-packages]
 
